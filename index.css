@@ -3,7 +3,6 @@ html {
     font-size: 1em;
     line-height: 1.4;
 background-color: #F5CFE4;
-
 }
 
 /*
@@ -37,6 +36,15 @@ h1 {
 font-family: 'besom_extendedregular';
 font-size: 3em;
 margin-top: 0;
+}
+footer {
+    height: 100px;
+
+}
+
+footer h2 {
+    font-family: 'PT Sans Caption', sans-serif;
+    padding-top: 2em;
 }
 
 p {
@@ -103,4 +111,12 @@ nav a {
 
 #Persona img {
     width: 700px;
+}
+#forside_link a {
+    text-decoration: underline;;
+    color: black;
+
+}
+#logo img {
+    width: 350px;
 }
