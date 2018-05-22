@@ -33,9 +33,23 @@ main {
 h1 {
     font-family: Arial;
 }
+h2 {
+font-family: 'besom_extendedregular';
+font-size: 2em;
+}
 
 p {
     font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'besom_extendedregular';
+    src: url('besom-extended-webfont.woff2') format('woff2'),
+         url('besom-extended-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 /* Navigation */
@@ -79,5 +93,5 @@ nav ul li {
 nav a {
     text-decoration: none;
     color: black;
-    font-family: Arial;
+    font-family: arial;
 }
