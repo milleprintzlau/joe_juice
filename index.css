@@ -33,9 +33,10 @@ main {
 h1 {
     font-family: Arial;
 }
-h2 {
+#forside h2 {
 font-family: 'besom_extendedregular';
 font-size: 2em;
+margin-top: 0;
 }
 
 p {
