@@ -31,7 +31,7 @@ main {
 }
 
 h1 {
-    font-family: Arial;
+    font-family: 'PT Sans Caption', sans-serif;
 }
 #forside h2 {
 font-family: 'besom_extendedregular';
@@ -94,5 +94,5 @@ nav ul li {
 nav a {
     text-decoration: none;
     color: black;
-    font-family: arial;
+    font-family: 'PT Sans Caption', sans-serif;
 }
