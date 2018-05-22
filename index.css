@@ -2,8 +2,24 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+background-color: #F5CFE4;
 
 }
+
+/*
+FARVER:
+
+BFA4B1
+F2F2F2
+F7F7F7
+0B020C
+
+F5CFE4
+
+58444F
+F2F1F1
+000800
+*/
 
 body{
   max-width: 1400px;
@@ -19,7 +35,7 @@ h1 {
 }
 
 p {
-    font-family: sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 /* Navigation */
@@ -52,7 +68,7 @@ nav ul li {
 
 .dropdown:hover > ul {
     display: block;
-    background-color: rgba(0, 0, 0, 0.78);
+    background-color: rgba(88, 68, 79, 0.91);
 }
 
 .dropdown:hover > ul a {
