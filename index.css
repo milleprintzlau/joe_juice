@@ -166,3 +166,13 @@ padding-bottom: 3em;
     margin-bottom: 0;
     font-family: 'PT Sans Caption', sans-serif;
 }
+#experience_map {
+    background-color: white;
+    width: 600px;
+    height: 450px;
+    padding: 1em;
+}
+
+#experience_map img {
+    width: 600px;
+}
