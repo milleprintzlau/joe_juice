@@ -176,3 +176,19 @@ padding-bottom: 3em;
 #experience_map img {
     width: 600px;
 }
+#scrum {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    padding: 1em;
+    padding-bottom: 3em;
+}
+#scrum iframe {
+    width: 400px;
+    height: 400px;
+}
+#scrum h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'PT Sans Caption', sans-serif;
+}
