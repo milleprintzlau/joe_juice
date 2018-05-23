@@ -120,3 +120,18 @@ nav a {
 #logo img {
     width: 350px;
 }
+#skitse {
+    background-color: white;
+  width: 400px;
+  height: 533px;
+padding: 1em;
+padding-bottom: 3em;
+}
+#skitse img{
+    width: 400px;
+}
+#skitse h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'PT Sans Caption', sans-serif;
+}
