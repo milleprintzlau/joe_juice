@@ -192,7 +192,9 @@ padding-bottom: 3em;
     margin-bottom: 0;
     font-family: 'PT Sans Caption', sans-serif;
 }
-
 #interviews p {
 font-family: sans-serif;
+}
+#observationer p {
+  font-family: sans-serif;
 }
