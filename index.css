@@ -198,3 +198,12 @@ font-family: sans-serif;
 #observationer p {
   font-family: sans-serif;
 }
+#fotostil img {
+    width: 700px;
+}
+#fotostil {
+    background-color: white;
+    width: 700px;
+    height: 470px;
+    padding: 1em;
+}
