@@ -219,3 +219,12 @@ font-family: sans-serif;
     height: 550px;
     padding: 1em;
 }
+.storyboard {
+    background-color: white;
+    width: 600px;
+    height: 450px;
+    padding: 1em;
+}
+.storyboard img{
+    width: 600px;
+}
