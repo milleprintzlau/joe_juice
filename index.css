@@ -210,3 +210,12 @@ font-family: sans-serif;
 #stiletile img {
     width: 730px;
 }
+#bmc img {
+    width: 750px;
+}
+#bmc {
+    background-color: white;
+    width: 748px;
+    height: 550px;
+    padding: 1em;
+}
