@@ -209,15 +209,15 @@ nav a {
 
 .scrum {
     background-color: white;
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     padding: 1em;
     padding-bottom: 3em;
 }
 
 .scrum iframe {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
 }
 
 .scrum h2 {
