@@ -125,10 +125,15 @@ nav a {
 #Persona img {
     width: 700px;
 }
+#forside_link {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
 
 #forside_link a {
     text-decoration: underline;
-    ;
+    font-size: 2em;
     color: black;
 
 }
@@ -281,4 +286,10 @@ nav a {
 .brugerrejse img {
     width: 450px;
     height:
+}
+
+#forside_video {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
 }
