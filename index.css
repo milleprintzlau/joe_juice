@@ -305,3 +305,7 @@ nav a {
 .forside_container h2 {
     margin-bottom: 0;
 }
+#xd_titel {
+    display: flex;
+    justify-content: center;
+}
